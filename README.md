@@ -8,4 +8,4 @@ This repository includes digit recognition project. The notebook includes
 5. ConvNET for digit recognition and hyperparameter tuning
 6. Comparison of these different approaches
 
-The dataset is relatively small (70,000 handwritten images and labels) and is intended for trying state of the art methods and comparing them with traditional methods in terms of performance and efficiency.
+The dataset is well-known (70,000 handwritten images and labels) and is intended for trying state of the art methods and comparing them with traditional methods in terms of performance and efficiency for learning purposes.
